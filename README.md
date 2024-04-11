@@ -1,6 +1,6 @@
 how to use this programm:
 
-import all libraries through pip install
+import all libraries through pip install: 
 do all commands through terminal
 1) add: python main.py add '{what would you specifically need do}' '{in which category is this case}'
 if you want to see the table, write: python main.py show
